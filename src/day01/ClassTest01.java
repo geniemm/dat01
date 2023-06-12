@@ -15,13 +15,7 @@ public class ClassTest01 {
 		System.out.print("요"); 
 		// ctrl + alt + 방향키 : 같은내용 복사
 		
-		System.out.println();
-		for (int i=0;i<5;i++) {
-			for(int j=0;j<=i;j++) {
-			System.out.print("*");
-			}
-			System.out.println();
-		}
+	
 		
 		
 	}
